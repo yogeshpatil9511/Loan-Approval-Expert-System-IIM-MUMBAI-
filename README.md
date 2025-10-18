@@ -2,14 +2,8 @@
 
 A modular, Python-based expert system for automatic bank loan approvals using a combination of collateral evaluation, financial stability analysis, and bank profitability (yield) assessment.
 Developed as part of a remote summer internship at IIM Mumbai under Prof. Hema Date by Yogesh D Patil (B.Tech, NIT Rourkela).
- 
-Table of Contents
-•	Overview
-•	Testing
-•	Documentation
-•	Internship & Certificate
-•	Contact
- 
+
+
 Overview
 This project implements an expert system that automates and explains loan decisions for banks. The system applies rule-based reasoning to:
 •	Assess the quality of collateral provided,
@@ -47,17 +41,6 @@ Contact
 For queries, contributions, or academic use, please contact:
 Yogesh D Patil
 
- 
-Happy contributing!
-For more details, see the /docs directory.
 
-⁂
- 
-1.	https://github.com/raulgonzalezcz/expert-sistems 
-2.	https://github.com/othneildrew/Best-README-Template 
-3.	https://dev.to/github/10-standout-github-profile-readmes-h2o 
-4.	https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/ 
-5.	https://realpython.com/readme-python-project/ 
-6.	https://systemweakness.com/creating-dynamic-readme-md-file-c472f0471dbf 
-7.	https://github.com/artainmo/expert-system 
-8.	https://github.com/mirsazzathossain/mirsazzathossain
+
+
